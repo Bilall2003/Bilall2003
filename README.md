@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Python%20%7C%20Data%20Science%20%7C%20ML%7C%20AI%20%3BBuilding%20things%20on%20the%20internet%3BBuilding%20Ransom%20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Python%20%7C%20Data%20Science%20%7C%20ML%7C%20AI%20%3BBuilding%20things%20on%20the%20internet" alt="Typing SVG" />
   </a>
 </p>
 
