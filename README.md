@@ -1,18 +1,54 @@
-# 💫 About Me:
-CS student in Data Science & AI 🤖📊 | ML & NLP projects 🧠 | Python ⚙️ & SQL 🗄️ | Turning data into scalable, real-world solutions 🚀
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bilal Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building things on the internet&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Bilal Ahmed+👋;Python | Data Science | ML| AI;Building things on the internet" alt="Typing SVG"/>
+</div>
 
+## ⌨️ About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilal-ahmed-56b105248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedbilal988766@gmail.com) 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Python%20%7C%20Data%20Science%20%7C%20ML%7C%20AI%20%3BBuilding%20things%20on%20the%20internet%3BBuilding%20Ransom%20" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bilall2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bilall2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilall2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🤝 Connect with me
 
----
-[![](https://visitcount.itsvg.in/api?id=Bilall2003&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilall2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmed-56b105248/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bilal-portfolio-nmf0.onrender.com)
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Bilall2003&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Bilall2003&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bilall2003&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
+
+## 🛠️ Skills
+
+![python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![java](https://img.shields.io/badge/-java-6E40C9?style=for-the-badge&logo=java&logoColor=white) ![aws](https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![anaconda](https://img.shields.io/badge/-anaconda-6E40C9?style=for-the-badge&logo=anaconda&logoColor=white) ![streamlit](https://img.shields.io/badge/-streamlit-6E40C9?style=for-the-badge&logo=streamlit&logoColor=white) ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![html](https://img.shields.io/badge/-html-6E40C9?style=for-the-badge&logo=html&logoColor=white) ![flask](https://img.shields.io/badge/-flask-6E40C9?style=for-the-badge&logo=flask&logoColor=white) ![mysql](https://img.shields.io/badge/-mysql-6E40C9?style=for-the-badge&logo=mysql&logoColor=white) ![mongodb](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![mlflow](https://img.shields.io/badge/-mlflow-6E40C9?style=for-the-badge&logo=mlflow&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![github](https://img.shields.io/badge/-github-6E40C9?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/-git-6E40C9?style=for-the-badge&logo=git&logoColor=white) ![matplotlib](https://img.shields.io/badge/-matplotlib-6E40C9?style=for-the-badge&logo=matplotlib&logoColor=white) ![opencv](https://img.shields.io/badge/-opencv-6E40C9?style=for-the-badge&logo=opencv&logoColor=white) ![scikitlearn](https://img.shields.io/badge/-scikitlearn-6E40C9?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-6E40C9?style=for-the-badge&logo=nlp&logoColor=white) ![matlab](https://img.shields.io/badge/-matlab-6E40C9?style=for-the-badge&logo=matlab&logoColor=white) ![powerBI](https://img.shields.io/badge/-powerBI-6E40C9?style=for-the-badge&logo=powerbi&logoColor=white)
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilall2003&theme=nord&no-frame=true&row=2&column=4"/>
+</p>
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bilall2003&style=flat-square&color=00FF41" alt="Profile views"/>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
