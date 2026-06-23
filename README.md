@@ -16,6 +16,6 @@ CS student in Data Science & AI 🤖📊 | ML & NLP projects 🧠 | Python ⚙�
 ![](https://github-profile-trophy.vercel.app/?username=Bilall2003&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Bilall2003&icon=0&color=13)](https://visitcount.itsvg.in)
+
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fbilall2003&style=flat)](https://rankistan.dev)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
