@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS student in Data Science & AI 🤖📊 | ML & NLP projects 🧠 | Python ⚙️ & SQL 🗄️ | Turning data into scalable, real-world solutions 🚀
+Computer Science student specializing in Data Science and Artificial Intelligence, with hands-on experience in Machine Learning, Natural Language Processing, Python, and SQL. Passionate about developing scalable, data-driven solutions to solve real-world problems.
 
 
 ## 🌐 Socials:
