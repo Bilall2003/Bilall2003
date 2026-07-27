@@ -101,20 +101,40 @@ Actively building and shipping new ML/DL projects — check my pinned repositori
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 What I'm Focused On
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bilall2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilall2003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bilall2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+**☁️ Cloud & Deployment**
+<br/>
+Learning AWS (EC2, S3, Lambda, RDS) and Docker to take models from notebook to production.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bilall2003&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
-</p>
+</td>
+<td width="33%" valign="top" align="center">
+
+**🧠 Applied ML/DL**
+<br/>
+Working on an ML/DL driven final year project, from data pipeline to a deployed dashboard.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**💼 Freelance ML**
+<br/>
+Delivering prediction & classification models for clients on Fiverr — from raw data to results.
+
+</td>
+</tr>
+</table>
+
+### 🧩 How I Work
+
+- 🔍 Start with the data — clean, explore, and understand it before touching a model
+- 🛠️ Prefer building things end-to-end: pipeline → model → deployed app
+- 📈 Value explainability — I like knowing *why* a model makes a decision, not just that it works
+- 🚀 Ship early, iterate often — a deployed rough version beats a polished notebook nobody can use
 
 ---
 
