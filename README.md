@@ -1,141 +1,135 @@
-<h1 align="center">Hi there, I'm Bilal Ahmed 👋</h1>
-<h3 align="center">Data Scientist in Progress | ML & AI Enthusiast | Building Real-World Intelligent Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B8D9&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+Cyber+Threat+Intelligence+Systems;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1E88E5&height=220&section=header&text=Bilal%20Ahmed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20in%20Progress%20%7C%20ML%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bilal-ahmed-56b105248/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedbilal988766@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/bilalahmedd2003/build-machine-learning-models-for-prediction-and-classification-in-python">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E88E5&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Messy+Data+Into+Working+Products;Shipping+Models%2C+Not+Just+Notebooks;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://www.linkedin.com/in/bilal-ahmed-56b105248/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=1E88E5" />
+</a>
+<a href="mailto:ahmedbilal988766@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A2540?style=for-the-badge&logo=gmail&logoColor=1E88E5" />
+</a>
+<a href="https://www.fiverr.com/bilalahmedd2003/build-machine-learning-models-for-prediction-and-classification-in-python">
+  <img src="https://img.shields.io/badge/Fiverr-0A2540?style=for-the-badge&logo=fiverr&logoColor=1E88E5" />
+</a>
 
-- 🎓 Computer Science student at **UIT University, Karachi**, specializing in **Data Science & AI**
-- 🔭 Currently building my **Final Year Project — a Cyber Threat Intelligence System** using ML/DL (XGBoost, Denoising Autoencoders, Clustering, SHAP, NLP)
-- 💼 Interned at **Developer Hub And Corporation**, working on real-world data/ML tasks
-- 🧠 Passionate about turning messy, real-world data into scalable, production-ready ML solutions
-- 🌱 Currently sharpening skills in **AWS (EC2, S3, Lambda, RDS)**, Docker, and MLOps
-- 💬 Ask me about Machine Learning, NLP, Deep Learning, Model Deployment, or Cybersecurity + AI
-- ⚡ Fun fact: I don't just build models — I deploy them so people can actually use them
-- 💼 **Freelancing on Fiverr** — I build custom ML models for prediction & classification. [Hire me →](https://www.fiverr.com/bilalahmedd2003/build-machine-learning-models-for-prediction-and-classification-in-python)
+</div>
 
----
+<br/>
 
-### 🛠️ Featured Projects
+## 🧭 About Me
 
-<table>
+```yaml
+name: Bilal Ahmed
+role: Computer Science Student — Data Science & AI
+based_in: Karachi, Pakistan
+university: UIT University
+currently_building: A machine learning driven final year project
+experience: Internship @ Developer Hub And Corporation
+freelance: Building ML models for prediction & classification on Fiverr
+interests: [Machine Learning, Deep Learning, NLP, Data Engineering, MLOps]
+currently_learning: [AWS, Docker, Cloud Deployment]
+fun_fact: "I don't just train models — I ship them so people can actually use them"
+```
+
+<div align="center">
+<i>💼 Open to internships, freelance ML work, and collaboration on data-driven products</i>
+</div>
+
+<br/>
+
+## 🚀 Featured Work
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ Cyber Threat Intelligence System (FYP)**
-An end-to-end ML pipeline that detects and analyzes network threats using XGBoost classification, a Denoising Autoencoder for feature compression, KMeans/DBSCAN clustering, and SHAP for explainability — trained on the CICIDS2017 dataset, served through a Streamlit dashboard with MySQL-backed hash verification.
+### 🔒 RansomGuard-ML
+Ransomware detection built on Sysmon logs using 4-gram behavioral feature extraction and a Random Forest classifier, inspired by academic research on behavior-based malware detection.
 
-`Python` `XGBoost` `Autoencoders` `SHAP` `NLP` `MySQL` `Streamlit`
+<img src="https://img.shields.io/badge/Python-0A2540?style=flat-square&logo=python&logoColor=1E88E5"/> <img src="https://img.shields.io/badge/scikit--learn-0A2540?style=flat-square&logo=scikitlearn&logoColor=1E88E5"/> <img src="https://img.shields.io/badge/Security-0A2540?style=flat-square&logo=shieldsdotio&logoColor=1E88E5"/>
 
 </td>
 <td width="50%" valign="top">
 
-**🔒 RansomGuard-ML**
-A ransomware detection system built on Sysmon logs, using 4-gram behavioral feature extraction and a Random Forest classifier — inspired by academic research on behavior-based malware detection.
+### 🎬 Movie Recommendation Engine
+Content-based recommender system deployed live with a clean, interactive Streamlit interface.
 
-`Python` `scikit-learn` `Security` `Behavioral Analysis`
+🔗 **[Live Demo](https://bilalllahmeddd-movie-recommendation-engine.hf.space)**
+
+<img src="https://img.shields.io/badge/Python-0A2540?style=flat-square&logo=python&logoColor=1E88E5"/> <img src="https://img.shields.io/badge/Streamlit-0A2540?style=flat-square&logo=streamlit&logoColor=1E88E5"/> <img src="https://img.shields.io/badge/Docker-0A2540?style=flat-square&logo=docker&logoColor=1E88E5"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎬 Movie Recommendation Engine**
-A content-based movie recommender deployed live on Hugging Face Spaces with a clean Streamlit interface.
+### 💼 Personal Portfolio
+End-to-end deployed portfolio site showcasing my projects, skills, and experience.
 
-🔗 [Live Demo](https://bilalllahmeddd-movie-recommendation-engine.hf.space)
+🔗 **[Live Site](https://my-portfolio-yp4h.onrender.com)** <sub>*(hosted on Render's free tier — may take ~30s to wake up on first visit)*</sub>
 
-`Python` `scikit-learn` `Streamlit` `Docker`
+<img src="https://img.shields.io/badge/Python-0A2540?style=flat-square&logo=python&logoColor=1E88E5"/> <img src="https://img.shields.io/badge/Streamlit-0A2540?style=flat-square&logo=streamlit&logoColor=1E88E5"/> <img src="https://img.shields.io/badge/Render-0A2540?style=flat-square&logo=render&logoColor=1E88E5"/>
 
 </td>
 <td width="50%" valign="top">
 
-**💼 Personal Portfolio**
-A fully deployed personal portfolio site showcasing my projects and skills, built and shipped end-to-end on Render.
+### 📊 More on the way
+Actively building and shipping new ML/DL projects — check my pinned repositories below for the latest.
 
-🔗 [Live Site](https://my-portfolio-yp4h.onrender.com)
-
-`Python` `Streamlit` `Render`
+🔗 **[Browse all repos](https://github.com/Bilall2003?tab=repositories)**
 
 </td>
 </tr>
 </table>
 
-> 📌 More projects on my pinned repositories below ⬇️
+<br/>
 
----
+## 🛠️ Tech Stack
 
-### 💻 Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,flask,streamlit,pytorch,sklearn,pandas,numpy,mysql,mongodb,mssql,docker,aws,nginx,git,github,postman,anaconda,opencv,vscode&theme=dark&perline=11" />
+</div>
 
-**Languages & Core**
+<br/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+## 📊 GitHub Stats
 
-**Machine Learning & Data Science**
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bilall2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A2540&title_color=1E88E5&icon_color=1E88E5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilall2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540&title_color=1E88E5" />
+</div>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Bilall2003&theme=tokyonight&hide_border=true&background=0A2540&ring=1E88E5&fire=1E88E5" alt="GitHub Streak" />
+</div>
 
-**Web & Deployment**
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilall2003&theme=react-dark&bg_color=0A2540&color=1E88E5&line=1E88E5&point=ffffff&hide_border=true" width="95%"/>
+</div>
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bilall2003&theme=darkhub&no-frame=true&margin-w=8&row=1" />
+</div>
 
-**Databases & Tools**
+<br/>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:0A2540&height=150&section=footer&text=Let's%20Build%20Something&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/bilal-ahmed-56b105248/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=1E88E5" />
+</a>
+<a href="mailto:ahmedbilal988766@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A2540?style=for-the-badge&logo=gmail&logoColor=1E88E5" />
+</a>
+<a href="https://www.fiverr.com/bilalahmedd2003/build-machine-learning-models-for-prediction-and-classification-in-python">
+  <img src="https://img.shields.io/badge/Fiverr-0A2540?style=for-the-badge&logo=fiverr&logoColor=1E88E5" />
+</a>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bilall2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilall2003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bilall2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bilall2003&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bilal-ahmed-56b105248/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedbilal988766@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/bilalahmedd2003/build-machine-learning-models-for-prediction-and-classification-in-python">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>💡 Open to internships, freelance ML projects, and collaboration on data-driven products.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bilall2003&style=flat-square&color=00B8D9" alt="Profile views" />
-</p>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Bilall2003&style=for-the-badge&color=1E88E5&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
