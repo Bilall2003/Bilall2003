@@ -22,18 +22,9 @@
 
 ## 🧭 About Me
 
-```yaml
-name: Bilal Ahmed
-role: Computer Science Student — Data Science & AI
-based_in: Karachi, Pakistan
-university: UIT University
-currently_building: A machine learning driven final year project
-experience: Internship @ Developer Hub And Corporation
-freelance: Building ML models for prediction & classification on Fiverr
-interests: [Machine Learning, Deep Learning, NLP, Data Engineering, MLOps]
-currently_learning: [AWS, Docker, Cloud Deployment]
-fun_fact: "I don't just train models — I ship them so people can actually use them"
-```
+Computer Science student specializing in **Data Science and Artificial Intelligence**, with hands-on experience in Machine Learning, Natural Language Processing, Python, and SQL. Passionate about developing scalable, data-driven solutions to solve real-world problems.
+
+Based in Karachi, Pakistan, currently studying at **UIT University**, and previously interned at **Developer Hub And Corporation**. I also take on freelance ML work on Fiverr, building custom models for prediction and classification.
 
 <div align="center">
 <i>💼 Open to internships, freelance ML work, and collaboration on data-driven products</i>
@@ -96,24 +87,42 @@ Actively building and shipping new ML/DL projects — check my pinned repositori
 
 <br/>
 
-## 📊 GitHub Stats
+## 🎯 What I'm Focused On Right Now
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bilall2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A2540&title_color=1E88E5&icon_color=1E88E5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilall2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540&title_color=1E88E5" />
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Bilall2003&theme=tokyonight&hide_border=true&background=0A2540&ring=1E88E5&fire=1E88E5" alt="GitHub Streak" />
-</div>
+**☁️ Cloud & Deployment**
+<br/>
+Learning AWS (EC2, S3, Lambda, RDS) and Docker to take models from notebook to production.
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilall2003&theme=react-dark&bg_color=0A2540&color=1E88E5&line=1E88E5&point=ffffff&hide_border=true" width="95%"/>
-</div>
+</td>
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bilall2003&theme=darkhub&no-frame=true&margin-w=8&row=1" />
-</div>
+**🧠 Applied ML/DL**
+<br/>
+Working on an ML/DL driven final year project, from data pipeline to a deployed dashboard.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**💼 Freelance ML**
+<br/>
+Delivering prediction & classification models for clients on Fiverr — from raw data to results.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧩 How I Work
+
+- 🔍 Start with the data — clean, explore, and understand it before touching a model
+- 🛠️ Prefer building things end-to-end: pipeline → model → deployed app
+- 📈 Value explainability — I like knowing *why* a model makes a decision, not just that it works
+- 🚀 Ship early, iterate often — a deployed rough version beats a polished notebook nobody can use
 
 <br/>
 
