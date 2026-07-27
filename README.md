@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Bilal Ahmed 👋</h1>
-<h3 align="center">Data Scientist in Progress | ML & AI Enthusiast | Building Real-World Intelligent Systems</h3>
+<h3 align="center">Data Science | ML & AI  | Building Real-World Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B8D9&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Data+Into+Decisions;Building+Production-Ready+ML+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
