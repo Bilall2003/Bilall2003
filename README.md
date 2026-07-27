@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi there, I'm Bilal Ahmed 👋</h1>
 <h3 align="center">Data Scientist in Progress | ML & AI Enthusiast | Building Real-World Intelligent Systems</h3>
 
