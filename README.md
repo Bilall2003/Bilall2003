@@ -174,15 +174,6 @@ Delivering reliable prediction, classification, and data-driven solutions for fr
 
 ---
 
-## 🧩 How I Work
-
-- 🔍 Start by understanding the problem before writing code.
-- 📊 Clean, explore, and understand the data before training models.
-- 🛠️ Build complete end-to-end solutions—from preprocessing to deployment.
-- 📈 Prioritize explainable, maintainable, and scalable machine learning systems.
-- 🚀 Continuously improve solutions through testing, evaluation, and iteration.
-
----
 
 ## 💡 Engineering Philosophy
 
@@ -211,4 +202,4 @@ Delivering reliable prediction, classification, and data-driven solutions for fr
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bilall2003&style=flat-square&color=00B8D9" alt="Profile Views"/>
 </p>
-```
+
