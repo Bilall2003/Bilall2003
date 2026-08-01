@@ -177,7 +177,7 @@ Delivering reliable prediction, classification, and data-driven solutions for fr
 
 ## 💡 Engineering Philosophy
 
-> *"Building intelligent systems that solve real-world problems through data, machine learning, and scalable deployment."*
+> *"Building intelligent systems that solve real-world problems through data, Artificial Intelligence, and scalable deployment."*
 
 ---
 
