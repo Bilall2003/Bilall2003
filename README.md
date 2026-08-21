@@ -30,7 +30,6 @@
 - 💼 Machine Learning Intern at **Developer Hub And Corporation**
 - 🔭 Currently working on machine learning-driven real-world applications and intelligent systems
 - 🧠 Passionate about transforming complex data into scalable, production-ready AI solutions
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Python, Data Science, and Model Deployment**
 - ⚡ I enjoy building complete ML solutions—from raw data to deployed applications
 - 💼 **Available for freelance Machine Learning projects on Fiverr**
 
