@@ -28,7 +28,7 @@
 
 - 🎓 Computer Science student at **UIT University, Karachi**, specializing in **Data Science & AI**
 - 💼 Machine Learning Intern at **Developer Hub And Corporation**
-- 🔭 Currently working on machine learning-driven real-world applications and intelligent systems
+- 🔭 Currently working on AI-driven real-world applications and intelligent systems
 - 🧠 Passionate about transforming complex data into scalable, production-ready AI solutions
 - ⚡ I enjoy building complete ML solutions—from raw data to deployed applications
 - 💼 **Available for freelance Machine Learning projects on Fiverr**
