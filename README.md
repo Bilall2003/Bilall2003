@@ -116,7 +116,7 @@ I'm continuously building and deploying new AI and Machine Learning projects.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%233F4F75.svg?style=flat-square&logo=nlp&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat-square&logo=mlflow&logoColor=white)
 
 ### Web, Deployment & Cloud
